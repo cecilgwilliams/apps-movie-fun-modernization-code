@@ -1,5 +1,7 @@
 # Movie Fun!
 
+Repo for the Modernization labs
+
 Smoke Tests require server running on port 8080 by default.
 
 ## Build WAR ignoring Smoke Tests
